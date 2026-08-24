@@ -1,6 +1,6 @@
 # ETEDIA
 
-This file gives an overview for the supplementary materials to the MuC work in progress paper: "Perceived Empathy and Trust in a Triage Nurse Versus an Intelligent Agent: A Vignette Experiment" (https://doi.org/10.18420/muc2026-mci-wip-333)
+This file gives an overview for the supplementary materials to the MuC'26 work in progress paper: "Perceived Empathy and Trust in a Triage Nurse Versus an Intelligent Agent: A Vignette Experiment" (https://doi.org/10.18420/muc2026-mci-wip-333)
 
 Below is a list of the files included: 
 
